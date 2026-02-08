@@ -40,7 +40,7 @@ Designed for subjects requiring memorization, such as **Islamic Studies**, **His
     <th colspan="2">Quiz Interface</th>
   </tr>
   <tr>
-     <td align="center"><b></b></td>
+     <td align="center"><b>Video</b></td>
     <td align="center"><b>Geography Quiz</b></td>
     <td align="center"><b>History Quiz</b></td>
   </tr>
