@@ -44,6 +44,24 @@ Finding practice material is usually a hassle. Our generator automates this proc
 * **Instant Solutions:** Every generated exercise comes with its detailed solution, eliminating the search for answer keys.
 
 > [Place a GIF or Image of the Exam Generation Process Here]
+>
+> <table align="center">
+
+  <tr>
+    <td align="center"><b>Video Demo</b></td>
+    <td align="center"><b>Test Generator</b></td>
+   
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/testFEATs.jpg" width="220" />
+    </td>
+    <td align="center">
+      <img src="src/testGif.gif" width="220" />
+    </td>
+  
+  </tr>
+</table>
 
 ### 3. 🧠 Active Recall Quiz App
 Designed for subjects requiring memorization, such as **Islamic Studies**, **History**, and **Geography**.
