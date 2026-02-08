@@ -36,7 +36,11 @@ Designed for subjects requiring memorization, such as **Islamic Studies**, **His
 * **Streamlined Content:** Questions focused on the official Algerian curriculum.
 * **Gamify Memorization:**making the process fun and competative
 > [Place a GIF or Image of a Quiz in Progress Here]
-
+> | Quiz Interface |
+> | :---: |
+> | Geography Quiz | History Quiz |
+> | :---: | :---: |
+> | <img src="quiz.png" width="250" /> | <img src="notes.png" width="250" /> |
 ---
 
 ## ⚙️ Technical Information
