@@ -43,8 +43,6 @@ Finding practice material is usually a hassle. Our generator automates this proc
 * **Targeted Practice:** Filter by **Branch** (filière) and specific **Lessons**.
 * **Instant Solutions:** Every generated exercise comes with its detailed solution, eliminating the search for answer keys.
 
-> [Place a GIF or Image of the Exam Generation Process Here]
->
 > <table align="center">
 
   <tr>
@@ -53,13 +51,12 @@ Finding practice material is usually a hassle. Our generator automates this proc
    
   </tr>
   <tr>
+     <td align="center">
+      <img src="src/testGif.gif" width="220" />
+    </td>
     <td align="center">
       <img src="src/testFEATs.jpg" width="220" />
     </td>
-    <td align="center">
-      <img src="src/testGif.gif" width="220" />
-    </td>
-  
   </tr>
 </table>
 
