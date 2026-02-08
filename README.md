@@ -40,7 +40,7 @@ Designed for subjects requiring memorization, such as **Islamic Studies**, **His
 > | :---: |
 > | Geography Quiz | History Quiz |
 > | :---: | :---: |
-> | <img src="quiz.png" width="250" /> | <img src="notes.png" width="250" /> |
+> | <img src="src/geo.jpg" width="250" /> | <img src="src/histo.jpg" width="250" /> |
 ---
 
 ## ⚙️ Technical Information
