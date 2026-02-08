@@ -20,7 +20,22 @@ A focused Markdown-enabled tool that allows students to capture essential inform
 * **Urgency Levels:** Color-coded `Urgent` (Red) flags for topics needing immediate review.
 * **Highlighting:** `Key Concepts` (Yellow) for easy scanning during final revisions.
 
-> [Place a GIF or Image of the Notes Taker Interface Here]
+<table align="center">
+  <tr>
+    <th colspan="">Notes Interface</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Video Demo</b></td>
+  
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/noteGIF.gif" width="220" />
+    </td>
+   
+  </tr>
+</table>
+
 
 ### 2. 🧪 Automated Exam Generator
 Finding practice material is usually a hassle. Our generator automates this process:
