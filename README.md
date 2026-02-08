@@ -72,8 +72,8 @@ This app is engineered using modern cross-platform technologies to ensure a smoo
 
 We are a team of two university students dedicated to improving the Algerian educational landscape through technology.
 
-* **[AbdelHADI Djillali/@hadihaha]** - 
-* **[Akram Trad/@akr1am]** - 
+* **AbdelHADI Djillali: [@hadihaha](https://github.com/hadihaha)** - 
+* **Akram Trad: [@akr1am](https://github.com/akr1am)** - 
 
 ---
 
