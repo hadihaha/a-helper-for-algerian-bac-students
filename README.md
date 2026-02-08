@@ -37,17 +37,18 @@ Designed for subjects requiring memorization, such as **Islamic Studies**, **His
 * **Gamify Memorization:**making the process fun and competative
 <table align="center">
   <tr>
-    <th colspan="2">Quiz Interface</th>
+    <th colspan="3">Quiz Interface</th>
   </tr>
   <tr>
-     <td align="center"><b>Video</b></td>
+    <td align="center"><b>Video Demo</b></td>
     <td align="center"><b>Geography Quiz</b></td>
     <td align="center"><b>History Quiz</b></td>
   </tr>
   <tr>
     <td align="center">
       <img src="src/quizGIF.gif" width="220" />
-      <br>
+    </td>
+    <td align="center">
       <img src="src/geo.jpg" width="220" />
     </td>
     <td align="center">
