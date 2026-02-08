@@ -45,8 +45,10 @@ Designed for subjects requiring memorization, such as **Islamic Studies**, **His
     <td><b>History Quiz</b></td>
   </tr>
   <tr>
+     <td><img src=" src/quizGIF.gif" width="250" /></td>
     <td><img src="src/geo.jpg" width="250" /></td>
     <td><img src="src/histo.jpg" width="250" /></td>
+   
   </tr>
 </table>
 ---
